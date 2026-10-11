@@ -4,7 +4,7 @@ A simple and responsive Stopwatch Web Application built using modern web technol
 It allows users to start, pause, reset, and track elapsed time with smooth and accurate time measurement.
 
 🚀 Features
-
+_____
 Start / Pause / Reset functionality
 
 Accurate millisecond timing
