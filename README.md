@@ -1,4 +1,4 @@
-⏱️ Stopwatch Application
+⏱️ Stopwatch Application...
 
 A simple and responsive Stopwatch Web Application built using modern web technologies.
 It allows users to start, pause, reset, and track elapsed time with smooth and accurate time measurement.
